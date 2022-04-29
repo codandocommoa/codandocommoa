@@ -14,9 +14,11 @@ Atualmente estou trabalhando no curso
 #### Criando um App iOS do zero até a publicação na Apple Store
 
 ### Mídeas Sociais
-[Canal no Youtube](https://youtu.be/2nCm-FgFXjI)
-[Instagram](https://www.instagram.com/codandocommoa/)
-[Hotmart](https://go.hotmart.com/Q70113164P)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://github.com/codandocommoa/codandocommoa)](https://youtu.be/2nCm-FgFXjI)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://github.com/codandocommoa/codandocommoa)](https://www.instagram.com/codandocommoa/)
+
+[![hotmart Badge](https://img.shields.io/badge/-hotmart-black?style=flat-square&logo=hotmart&logoColor=white&link=https://github.com/codandocommoa/codandocommoa)](https://go.hotmart.com/Q70113164P)
 
 
 #### Alguns Materiais que tenho em meu GitPessoal....
